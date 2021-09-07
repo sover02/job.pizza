@@ -7,7 +7,7 @@ tags: [ Arizona, "DJI Air 2" ]
 image: https://lh3.googleusercontent.com/pw/AM-JKLXfqtFRGTXNcdpZd9plWrya_ChBT-s4iyoKEHmKJxH7DwqQUsGEpA8w8WCbwkoTI2rSYUqG5UC-9KtlGAEWUs63Ot-ACiNuAtBOZe-scsMNaT7-bOqD_3_zh-pG3BjAQEDb2eSxKl0kqzsFwICegC60iQ=w2476-h1392-k-no?authuser=0
 ---
 
-A friend of mine and I were feeling restless one morning, so we drove up to Camelback Mountain near my house and got a few short clips clips from on-high. Aside from the switchbacks and rock formations, there are some really cool really cool homes and venues built on the mountain face, including [Compenhaver Castle, a historical landmark](https://housekaboodle.com/copenhaver-castle-camelback-moutain-arizona/).
+A friend of mine and I were feeling restless one morning, so we drove up to Camelback Mountain near my house and got a few short clips from on-high. Aside from the switchbacks and rock formations, there are some really cool homes and venues built on the mountain face, including [Compenhaver Castle, a historical landmark](https://housekaboodle.com/copenhaver-castle-camelback-moutain-arizona/).
 
 We made a point to not too close to any residentials buildings or focus on any one unit, but still got some really neat clips. I also got the chance to chase my friend's car through the switchbacks with the drone - something I'd been meaning to try. :)
 
