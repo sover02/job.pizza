@@ -6,7 +6,7 @@ categories: [ Drones, Travel ]
 tags: [ Arizona, "DJI Air 2", "DJI FPV" ]
 image: https://lh3.googleusercontent.com/pw/AM-JKLV2EKiC1JIFJQ7ibyr-ge5sdY5jCuKKCrQBwt8Wdk3EcRSnSg82i1OCLLleWHCuxU9NhVgcOTiy_XCq-rCrWFrC2rPRWWoRvuZJESejpRnJppXLVBW7AuJoHtTXCl5LsRa1Kh3GdDUSZvWAWyxgaYlOtQ=w2476-h1392-no?authuser=0
 ---
-Had some fun this weekend up in Prescott with an old friend, Connor Rickett. He was able to take a break from tracking wolves for a photo shoot (no joke) and fly the drones with me. This was my first time flying the [DJI FPV](https://www.dji.com/dji-fpv). The videos are unedited and may be a little jarring. Check Connor's Instagram: [@vagabond.guide](https://www.instagram.com/vagabond.guide/)
+Had some fun this weekend up in Prescott with an old friend, Connor Rickett. He was able to take a break from tracking wolves for a photo shoot (no joke) and fly the drones with me. This was my first time flying the [DJI FPV](https://www.dji.com/dji-fpv). The videos are unedited and may be a little jarring. Check out Connor's Instagram: [@vagabond.guide](https://www.instagram.com/vagabond.guide/)
 
 See the full album here: [Google Photos](https://photos.google.com/share/AF1QipNGnfXl8VrxnBS2saml9I4xQH3TaW2GquJDV2PfwYaCJyIIED1mNirhHn6KgPUG7w?key=dDhGdUxDV3ZHQzR3V3VtWGRRWkNHZUNnXzF3WVpn)
 
