@@ -6,7 +6,8 @@ categories: [ Drones, Travel ]
 tags: [ Montana, "DJI Air 2" ]
 image: https://lh3.googleusercontent.com/pw/AM-JKLUqmGqxB6hRSxjmvTXLaJqvkNb2emhhhzzJ-Wckt0elLJ1JnJaGaQD7PM-6v2imMprTTH3oUCp34D4Yqcs1dJTF3fOo1qYy_DoPA0A0x5DbhRBztxVaJXBIT2RAZ_95-KStgFY2tQo1aK7x3tvPCt6k0Q=w1856-h1392-no
 ---
-Earlier this year I had the chance to visit my Sister and her boyfriend in my family's cabin in upstate Montana. I made a drive through west through Idaho Panhandle and had a chance to get some beautiful snowy mountain views. Most of the road followed a beautiful river with a few train track bridges, making for some fun aerial opportunities.
+
+Earlier this year I had the chance to visit my Sister and her boyfriend in my family's cabin in upstate Montana. I made a drive through west through northern Idaho all the way to [Spokane, Washington](https://www.youtube.com/watch?v=Okad2AmxoNA) and had a chance to capture some beautiful snowy mountain views. Most of the road followed a beautiful river with a few train track bridges, making for some fun aerial opportunities.
 
 See the full album here: [Google Photos](https://photos.app.goo.gl/pGYNtPqZ9APowUsP6)
 
