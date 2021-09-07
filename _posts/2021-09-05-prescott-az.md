@@ -2,17 +2,16 @@
 layout: post
 title:  "Prescott, AZ"
 author: david
-categories: [ Lifestyle ]
+categories: [ Drones, Travel ]
 image: https://lh3.googleusercontent.com/pw/AM-JKLV2EKiC1JIFJQ7ibyr-ge5sdY5jCuKKCrQBwt8Wdk3EcRSnSg82i1OCLLleWHCuxU9NhVgcOTiy_XCq-rCrWFrC2rPRWWoRvuZJESejpRnJppXLVBW7AuJoHtTXCl5LsRa1Kh3GdDUSZvWAWyxgaYlOtQ=w2476-h1392-no?authuser=0
 ---
 The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:800px; display:none;"
   data-link="https://photos.app.goo.gl/kvaBBXVw5cerr2qa8"
   data-title="Prescott, Arizona"
-  data-description="17 new photos · Album by David A"
-  data-background-color="#ffffff">
+  data-description="17 new photos · Album by David A">
   <object data="https://lh3.googleusercontent.com/-nt7UqYFs1wm3VEeoEicow49Nr035XkckFqMfTrIAv_ZKG51R1Aafm7NtNRKZSZM9T8mA9iXlgbg8FGP9dbnvq2QqbXXVh04slzoupzQRRUT4IA3SzSPz-IG3-96HebdAwCEqqzm0MY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/4NLqotEiuAoijyUASWfOdcRHekeqeQ4GyC5oF7c7jiAK82wmKCpJn5xo3P_6WIo1_l4v-OM6FhEF1gb2F3fss8oXAUQVSTbVzYYgyOLEWxJmwA1MWb8IXQo2C3LKkqhrxVdazCbXphM=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/UbMCSXREdj3f2T28N7ZHzqqboVCtzw6_rx1oroPqhLB-hL8OFbnywsZOgA4CKLQRBLuN1VTsx5X5D7nJLf2bZJoUIALeEoUoL2q0NdhnAErlxCd5Ve5CHL4h-LEHUgY8snoXC5h13FI=w1920-h1080"></object>
@@ -31,14 +30,3 @@ The origins of culinary began with primitive humans roughly 2 million years ago.
   <object data="https://lh3.googleusercontent.com/-D7bz7tDumHHUImNa-JkM0A_abjT2PSAzasEnGvjIsZZC5Kep7AQf7vVoG9Ofa3OaN2-GH0NUFQSp_AlsHaHwmbVtYg7vtyhZbfykDdeOspokHQeiLQD5ljk5c6ReqEJ8q7sgKOaAz8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/u1MJkJcclVymEYQl8SjAoItesmzznzDYNybHT_V9mGsPuQRE8QvKrXbmteamIhO86Yxe5wAtQunpuKPs9gyp9QiFXyKYLYN4qEdSAAuG-V7odYHNi2V6qBTlbrVuRIxZbm1cdfxQX08=w1920-h1080"></object>
 </div>
-
-
-Culinary techniques improved with the introduction of earthenware and stoneware, the domestication of livestock, and advancements in agriculture. In early civilizations, the primary employers of professional chefs were kings, aristocrats, or priests. The divide between professional chefs cooking for the wealthy and peasants cooking for their families engendered the development of many cuisines.
-
-A great deal of the study of Culinary Arts in Europe was organized by Jean Anthelme Brillat-Savarin, a man famous for his quote "Tell me what you eat, and I will tell you what you are," which has since been mistranslated and oversimplified into "You are what you eat." Other people helped to parse out the different parts of food science and gastronomy. Over time, increasingly deeper and more detailed studies into foods and the Culinary Arts has led to a greater wealth of knowledge.
-
-In Asia, a similar path led to a separate study of the Culinary Arts, which later essentially merged with the Western counterpart. In the modern international marketplace, there is no longer a distinct divide between Western and Eastern foods. Culinary Arts students today, generally speaking, are introduced to the different cuisines of many different cultures from around the world.
-
-The Culinary Arts, in the Western world, as a craft and later as a field of study, began to evolve at the end of the Renaissance period. Prior to this, chefs worked in castles, cooking for kings and queens, as well as their families, guests, and other workers of the castle. As Monarchical rule became phased out as a modality, the chefs took their craft to inns and hotels. From here, the craft evolved into a field of study.
-
-Before cooking institutions, professional cooks were mentors for individual students who apprenticed under them. In 1879, the first cooking school was founded in the United States: the Boston Cooking School. This school standardized cooking practices and recipes, and laid the groundwork for the culinary arts schools that would follow.
