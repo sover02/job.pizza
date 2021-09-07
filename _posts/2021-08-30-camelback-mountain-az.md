@@ -2,8 +2,8 @@
 layout: post
 title:  "Castle on Camelback Mountain"
 author: david
-categories: [ Arizona, Travel ]
-tags: [ Montana, "DJI Air 2" ]
+categories: [ Drone, Travel ]
+tags: [ Arizona, "DJI Air 2" ]
 image: https://lh3.googleusercontent.com/pw/AM-JKLXfqtFRGTXNcdpZd9plWrya_ChBT-s4iyoKEHmKJxH7DwqQUsGEpA8w8WCbwkoTI2rSYUqG5UC-9KtlGAEWUs63Ot-ACiNuAtBOZe-scsMNaT7-bOqD_3_zh-pG3BjAQEDb2eSxKl0kqzsFwICegC60iQ=w2476-h1392-k-no?authuser=0
 ---
 
