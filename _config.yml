@@ -17,11 +17,11 @@ authors:
   david:
     name: David
     display_name: David
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/avatar-david.png'
     email: david@job.pizza
     web: https://job.pizza
     # twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    # description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
 plugins:
