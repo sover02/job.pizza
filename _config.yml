@@ -7,7 +7,6 @@ favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'G-NXB72R64KT'
 disqus: 'drones-and-code'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: david@job.pizza
@@ -20,6 +19,7 @@ authors:
     avatar: 'assets/images/avatar-david.png'
     email: david@job.pizza
     web: https://job.pizza
+    github: https://github.com/sover02
     description: "Computer nerd who travels a lot. Sometimes I take pretty pictures or work on cool projects. Some of them end up here."
 
 # Plugins
