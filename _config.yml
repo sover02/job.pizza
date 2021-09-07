@@ -1,12 +1,12 @@
 # Site
 name: "Drones and Code"
 title: "Drones and Code"
-description: "Drones and Code | Just somewhere to store my aerial photography and nerd projects."
+description: "Drones and Code - Just somewhere to store my aerial photography and nerd projects."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-# google_analytics: 'UA-xxxxxxxx-1'
-# disqus: 'demowebsite'
+google_analytics: 'G-NXB72R64KT'
+disqus: 'drones-and-code'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -20,7 +20,6 @@ authors:
     avatar: 'assets/images/avatar-david.png'
     email: david@job.pizza
     web: https://job.pizza
-    # twitter: https://twitter.com/wowthemesnet
     description: "Computer nerd who travels a lot. Sometimes I take pretty pictures or work on cool projects. Some of them end up here."
 
 # Plugins
