@@ -96,7 +96,7 @@ libwebp-dev: /usr/include/webp/encode.h
 # [...]
 libwebp-dev: /usr/lib/x86_64-linux-gnu/libwebp.so
 libwebp-dev: /usr/lib/x86_64-linux-gnu/libwebpdemux.so
-*libwebp-dev: /usr/lib/x86_64-linux-gnu/libwebpmux.so*
+libwebp-dev: /usr/lib/x86_64-linux-gnu/libwebpmux.so
 # [...]
 ```
 
