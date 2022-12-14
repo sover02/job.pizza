@@ -42,8 +42,7 @@ jobs:
         run: tar xzvf pixlet_0.17.12_linux_amd64.tar.gz && chmod +x pixlet
 
       - name: Render webp Image
-        run: |
-          ./pixlet render winter_steps.star
+        run: ./pixlet render winter_steps.star
 
       - name: Push webp Image
         run: |
