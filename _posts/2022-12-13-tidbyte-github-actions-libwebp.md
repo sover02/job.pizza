@@ -122,7 +122,7 @@ env:
 
 And now we're done! Here's the full github action for anyone interested. Hope it helps someone.
 
-<img src="/assets/images/post_images/winter_steps.png" style="width:100%" />
+![](/assets/images/post_images/winter_steps.png)
 
 ### Github Action with Fixes
 
