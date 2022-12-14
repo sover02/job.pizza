@@ -122,7 +122,7 @@ env:
 
 And now we're done! Here's the full github action for anyone interested. Hope it helps someone.
 
-<img src="/assets/images/post_images/winter_steps.webp" width="100%" />
+<img src="/assets/images/post_images/winter_steps.png" style="width:100%" />
 
 ### Github Action with Fixes
 
